@@ -55,13 +55,13 @@ Development Finance and External Statistics
 
 # Dashboard Africa Financial Risk & Illicit Financial Flows Overview 1 
 
-![Dashboard ](https://github.com/jeisteve999/Tax-Revenue-Analysis-in-Africa/blob/main/dashboard.bi.png)
+![Dashboard ](https://github.com/jeisteve999/Africa-Financial-Risk-Illicit-Financial-Flows-Overview/blob/main/Africa%20financial%20risk%201.png)
 
 
 
 # Dashboard Africa Financial Risk & Illicit Financial Flows Overview 2 
 
-![Dashboard ](https://github.com/jeisteve999/Tax-Revenue-Analysis-in-Africa/blob/main/dashboard.bi.png)
+![Dashboard ](https://github.com/jeisteve999/Africa-Financial-Risk-Illicit-Financial-Flows-Overview/blob/main/Africa%20financial%20risk%202.png)
 
 
 Key Insights
